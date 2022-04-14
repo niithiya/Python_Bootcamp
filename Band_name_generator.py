@@ -1,3 +1,5 @@
+This project makes use of string manipulation, concatenation, printing inputs, variables, debugging
+
 #1. Create a greeting for your program.
 print("Welcome to band name generator!")
 
